@@ -1,1 +1,1 @@
-# Labirinto.
+Eu usei o encapsulamento na parte da cena 2 que veio do POO. Achei importante pois eu usei para restrinigr parte do codigo para ele aparecer apenas quando a primeira fase for concluida, entao so sendo possivel acessar com um metodo especigico. Assim, ele so vai ser concluido quando voce pegar a chave e entrar na porta.
